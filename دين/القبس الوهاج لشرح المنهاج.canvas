@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"b34f454613fa3cfd","type":"text","text":"‫مقاصد‬ ‫تأليف‬ ‫متن‬ ‫املنهاج‬","x":-540,"y":-158,"width":220,"height":60},
+		{"id":"8bdc5f7fca09be10","type":"text","text":"زاد للمسلم الذى يسعى لتحقيق غايتين\n","x":-160,"y":-158,"width":250,"height":60},
+		{"id":"1acfaebfafc5622a","type":"text","text":"ابراز كثير من منهجيات الشريعة\n","x":-160,"y":-280,"width":250,"height":60},
+		{"id":"6a211e24ffe48aee","type":"text","text":"عين على الشريعة التى عظمت هذه الامور المركزية ثم تربية المصلحين","x":80,"y":-440,"width":250,"height":85},
+		{"id":"cee60c32b0c2ab28","type":"text","text":"عين على الواقع وما فيه من خلل متعلق بهذه المركزيات\n","x":123,"y":-320,"width":250,"height":60},
+		{"id":"a91dc62f92174243","type":"text","text":"‫االسـتقامة‬‫والثبـات‬ ‫أمـام‬ ‫مـا‬ ‫يعـرض‬ ‫لـه‬ ‫مـن‬ ‫االبتلاءات‬","x":220,"y":-188,"width":250,"height":60},
+		{"id":"4208c011a8bd9aff","x":201,"y":-122,"width":250,"height":60,"type":"text","text":"‫االسـتقامة‬‫والثبـات‬ ‫أمـام‬ ‫مـا‬ ‫يعـرض‬ ‫لـه‬ ‫مـن‬ ‫االبتلاءات‬"},
+		{"id":"e0d27705225d9251","type":"text","text":"تعزيز مرجعية الوحى فى نفوس المتربين من الناحية التطبيقية\n","x":-170,"y":40,"width":250,"height":60},
+		{"id":"2ef6b6f9bddde56c","x":280,"y":-20,"width":250,"height":60,"type":"text","text":"طريق نظرى\n"},
+		{"id":"d79b26a437d48e9a","x":280,"y":120,"width":250,"height":60,"type":"text","text":"طريق تطبيقى"}
+	],
+	"edges":[
+		{"id":"de318e4b4d8e6c0a","fromNode":"b34f454613fa3cfd","fromSide":"top","toNode":"1acfaebfafc5622a","toSide":"left"},
+		{"id":"afbfe7ddf0a7b5a6","fromNode":"b34f454613fa3cfd","fromSide":"right","toNode":"8bdc5f7fca09be10","toSide":"left"},
+		{"id":"0d23a97afaa41a89","fromNode":"b34f454613fa3cfd","fromSide":"bottom","toNode":"e0d27705225d9251","toSide":"left"},
+		{"id":"28a41d95c19cc677","fromNode":"1acfaebfafc5622a","fromSide":"top","toNode":"6a211e24ffe48aee","toSide":"left"},
+		{"id":"d85911715f75ab42","fromNode":"1acfaebfafc5622a","fromSide":"right","toNode":"cee60c32b0c2ab28","toSide":"left"},
+		{"id":"ddfa24793a8687a1","fromNode":"8bdc5f7fca09be10","fromSide":"right","toNode":"a91dc62f92174243","toSide":"left"},
+		{"id":"313b3a189d4bb5a2","fromNode":"8bdc5f7fca09be10","fromSide":"right","toNode":"4208c011a8bd9aff","toSide":"left"},
+		{"id":"985a83b31becab03","fromNode":"e0d27705225d9251","fromSide":"right","toNode":"2ef6b6f9bddde56c","toSide":"left"},
+		{"id":"55a14e856ac47ec6","fromNode":"e0d27705225d9251","fromSide":"right","toNode":"d79b26a437d48e9a","toSide":"left"}
+	]
+}
