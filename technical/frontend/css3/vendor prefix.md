@@ -83,4 +83,88 @@ transform:skew(50deg) لف من ناحية الاكس بس
 
 50deg , 30 deg  من ناحية x , y 
  بمسيل العنصر بشده وبخير شكله مش بلفه 
+
+---
+فى ال 3d ال transorfm-translate-z مش بتشتغل الا مع ال rotate 
+
+---
+عشان الشكل يشتغل معايا 3d بعطى الاب بروبرتى اسمها perspective:600 مثلا 
+
+---
+matrix 3d 
+
+بتتعمل عن طريق موقع matrix 3d generator عشان بتاخد 16 قيمة 
+
+---
+perspective-origin: left top 
+
+بتحدد الشكل هيبدا منين كثلاثى ابعاد 
+
+---
+transform-origin : top right 
+transform: rotate(50 deg)
+بتحدد هيبدأ لف او تحرك ك traslate منين بالظبط بحدد النقطة اللى هيلف من عندها 
+
+
+---
+transform-style : preserve-3d / flat
+بتتحط للاب عشان يظهر الابناء 3 د 
+
+ال flat لل 2 د 
+
+---
+فى ال 3d كل عنصر له فرونت فيس وباك فيس  
+لو عاوز اخفى خلفيته 
+backface-visibility : hidden / visible 
+
+---
+![[Pasted image 20250315151342.png]]
+
+الاوفر فلو بتحكم فيه فى الاسكرول يظهر ولا لا له 3 انوع 
+visible , hidden , scroll 
+
+----
+opacity 
+بتاخد قيم من صفر ل 1 
+
+---
+خاصية ال resize: horizontal / vertical / none 
+بستخدمها مع النصوص مثلا 
+
+---
+![[Pasted image 20250315152132.png]]
+
+![[Pasted image 20250315152144.png]]
+
+الاوتلاين ده البوردر اللى فوق البوردر اما الاوتلاين اوفست المسافة بين البوردر والاوتلاين 
+
+---
+
+لو عاوز اعمل بادينج وبوردر ومش عاوزهم ياثروا على ال width عشان ال float ميضربش 
  
+ بعمل الخاصية دى عالعنصر نفسه 
+ border-sizing:border-box 
+
+---
+trsnsition الانتقال 
+
+![[Pasted image 20250315152932.png]]
+
+البروبرتى بحدد هيتعمل على ايه فى الهوفر والديوراشن المدة 
+ممكن اعطى البروبرتى all طبق على كل اللى فى الهوفر 
+
+![[Pasted image 20250315153732.png]]
+
+كستم اكتر كل واحده فى مدة اد ايه 
+
+---
+transition timing function 
+
+![[Pasted image 20250315154015.png]]
+
+linear يمشى بنفس السرعة 
+ease يبدا براحه يسرع ينهى براحه 
+
+ease out ينهى براحه 
+ease in يبدا براحه 
+ease in out يمشي كله براحه 
