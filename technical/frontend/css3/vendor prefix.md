@@ -168,3 +168,71 @@ ease يبدا براحه يسرع ينهى براحه
 ease out ينهى براحه 
 ease in يبدا براحه 
 ease in out يمشي كله براحه 
+
+----
+![[Pasted image 20250315170828.png]]
+
+اخر واحده دى ال delay هيتاخر اد ايه اما يبدا اصبر 3 ث وابدا 
+
+---
+animation 
+
+بعملها بتعريف كيفريم 
+لازم duration يتحط 
+
+![[Pasted image 20250315172722.png]]
+
+لو قيمتين بس اللى بتغيرو بستخدم from to اكتر بستخدم الطريقة اللى فى الصورة 
+
+---
+فى حاجه اسمها ال steps فى ال transition 
+
+---
+![[Pasted image 20250315173039.png]]
+
+ال count عدد مرات تكرار الانيميشن 
+لو الى مالا نهاية infinite 
+ وال timing function نفس اللى فاتت بنفس القيم بتاع ease 
+ 
+ ال delay اصبر كذا ث وابدا 
+ ال direction 
+ alternate 
+ alternate -reverse 
+ reverse 
+ normal
+
+---
+animation fill mode : 
+forward اشتغل واقف عند اخر انيماشين 
+backword اشتغل وارجع وخد اول انيميشن حتى لو مش 
+
+both اجمع بين الخاصيتين شغل اول انيميشن متراعيش ال delay واقف عند اخر انيميشن 
+
+---
+animation play state : paused 
+بيوقف الانيميشن 
+
+لو فى سطر واحد 
+![[Pasted image 20250315175809.png]]
+
+فيه موقعين بعمل عليهم الانيميشن 
+css animation generator 
+css keyframe 
+
+----
+css columns 
+
+![[Pasted image 20250315180544.png]]
+
+count عدد الاعمدة 
+gap الفرق بينهم 
+rule دا ال border بينهم بياخد نفس خصائص البوردر
+span لو فيه عنصر جوه عاوزه ياخد كل الاعمده 
+span: all 
+width عرض الكولم كام
+
+---
+columns : 30px 3
+قسمهم 3 وعرضهم 30 
+
+---
