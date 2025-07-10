@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "67904fd1319d94c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf1d9386f25a359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758e0f9dd8496bb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/js/acadea deeper into js/session 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f762b4d5642c892",
+    "type": "split",
+    "children": [
+      {
+        "id": "451bb39cf206070f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "580327ba7a0e394b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8bb20765d0dd8742",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "476d3d21f729a6b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ab47240cafb3613",
+    "type": "split",
+    "children": [
+      {
+        "id": "d39390a6d71f1753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17bb58dcda99de17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "technical/devops/cicd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for cicd"
+            }
+          },
+          {
+            "id": "bd61f0ef126dc296",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "technical/devops/cicd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from cicd"
+            }
+          },
+          {
+            "id": "e0f6144641db4a7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a31197c15d0d5ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "technical/devops/cicd.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cicd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "758e0f9dd8496bb2",
+  "lastOpenFiles": [
+    "Pasted image 20250708121025.png",
+    "technical/js/acadea deeper into js/Pasted image 20250708115656.png",
+    "technical/js/acadea deeper into js/session 5.md",
+    "technical/js/acadea deeper into js/session 6.md",
+    "technical/js/acadea deeper into js/Pasted image 20250708093330.png",
+    "technical/js/acadea deeper into js/basics.md",
+    "technical/js/acadea deeper into js/Pasted image 20250707113015.png",
+    "technical/js/acadea deeper into js",
+    "technical/js/acadea deeper into js/Pasted image 20250708083804.png",
+    "technical/js/acadea deeper into js/Pasted image 20250708083329.png",
+    "technical/js/acadea deeper into js/Pasted image 20250707130818.png",
+    "technical/devops/cicd.md",
+    "technical/js",
+    "technical/design patterns/abstract  factory.md",
+    "technical/Untitled"
+  ]
+}
