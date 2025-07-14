@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/js/acadea deeper into js/session 6.md",
+                "file": "technical/js/acadea deeper into js/spread operator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session 6"
+              "title": "spread operator"
             }
           }
         ]
@@ -170,17 +170,25 @@
   },
   "active": "758e0f9dd8496bb2",
   "lastOpenFiles": [
-    "Pasted image 20250708121025.png",
-    "technical/js/acadea deeper into js/Pasted image 20250708115656.png",
-    "technical/js/acadea deeper into js/session 5.md",
+    "technical/js/acadea deeper into js/Pasted image 20250714151817.png",
+    "technical/js/acadea deeper into js/Pasted image 20250714151738.png",
+    "technical/js/acadea deeper into js/Pasted image 20250714145437.png",
+    "technical/js/acadea deeper into js/session 7.md",
+    "technical/js/acadea deeper into js/spread operator.md",
     "technical/js/acadea deeper into js/session 6.md",
+    "technical/js/acadea deeper into js/Pasted image 20250712165345.png",
+    "دين/مصطلح الحديث/الحصة 3.md",
+    "دين/بلوغ المرام/الدم.md",
+    "technical/js/acadea deeper into js/Pasted image 20250708170325.png",
+    "technical/js/acadea deeper into js/session 5.md",
+    "technical/js/acadea deeper into js/Pasted image 20250708121025.png",
+    "technical/js/acadea deeper into js/Pasted image 20250708115656.png",
     "technical/js/acadea deeper into js/Pasted image 20250708093330.png",
     "technical/js/acadea deeper into js/basics.md",
     "technical/js/acadea deeper into js/Pasted image 20250707113015.png",
     "technical/js/acadea deeper into js",
     "technical/js/acadea deeper into js/Pasted image 20250708083804.png",
     "technical/js/acadea deeper into js/Pasted image 20250708083329.png",
-    "technical/js/acadea deeper into js/Pasted image 20250707130818.png",
     "technical/devops/cicd.md",
     "technical/js",
     "technical/design patterns/abstract  factory.md",
