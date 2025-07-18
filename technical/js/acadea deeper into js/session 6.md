@@ -40,7 +40,7 @@ iceCream().then((response) => {
 
 ![[Pasted image 20250708115656.png]]
 
-اللى بترجعه فى ال then تقدر تستقبله فى ال response فى ال then اللى بعدها 
+اللى بترجعه فى ال then تقدر تستقبله فى ال response فى ال then اللى بعدها زى اللى فى الصورة فوق
 
 ال catch بتشتغل مع ال thens اللى قبلها بس وممكن اغير مكان ال catch مش لازم تكون فى الاخر بس 
 
@@ -55,6 +55,21 @@ iceCream().then((response) => {
 ولو عاملها وال error جاى من promise هيطبع ال promise error ومش هيطبع ال through لانه فى الحاله دى مش هيدخل اصلا ال then 
 
 
+---
+async and promise
+
+ال async طريقة ابسط لكتابة ال promise 
+ال await لا تستخدم الا داخل async function 
+بتجبر ال event loop انه يرن حاجه جواه sync فى الحال 
+يعنى بيخنيلنى استخدم ال promise بشكل synchronous 
 
 
 
+---
+الميزة الاساسية لل promises انه بيحل مشكلة ال callback
+
+شكل ال promise هو async func لما بستدعيها واعمل then 
+
+![[Pasted image 20250708170325.png]]
+
+![[Pasted image 20250712165345.png]]
