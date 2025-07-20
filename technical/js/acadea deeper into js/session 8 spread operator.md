@@ -8,6 +8,8 @@ Rest operator عكس ال spread
 ده بيجمع لارى تانى وبيستخدم مع تعريف ال functions 
 
 ![[Pasted image 20250714151738.png]]
+الاسبريد فى دمج 2 اوبجكت بيعدل ال property لو متكرره فى الاوبجكت التانى
 
-![[
-]]
+![[Pasted image 20250714151817.png]]
+وبستخدم ال rest لو هباصى عدد من ال arguments مش عارف هيكون اد ايه infinite arguments 
+
