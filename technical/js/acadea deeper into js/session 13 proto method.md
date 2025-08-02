@@ -91,7 +91,23 @@ arr.hey() => prints hey
 
 الكونستركتور فانكشن او الكلاس هم اللى بتطبع اللى جواهم عن طريق ال prototype 
 
-اما الاوبجكت بتطبع اللى فوقه عن طريق __ proto __ 
+اما الاوبجكت بتطبع اللى فوقه عن طريق __ proto __ يعنى بتطبع ال prototype بتاع اللى فوقه 
+
+
+
+	class Person{}
+
+        class Student extends Person {
+
+        }
+
+        console.log(Student.prototype)
+
+![[Pasted image 20250802222234.png]]
+
+ console.log(Student.prototype.____proto___)
+
+![[Pasted image 20250802222444.png]]
 
 
 
