@@ -45,3 +45,10 @@ let car1 = new Car('bmw' , 'any');
 car1.drive();
 
 		car1.stop()
+
+لو عاوز اضيف ميثود فى كلاس عد ما عرفته بستخدم ال prototype 
+
+Car.prototype.start = function(){
+console.log()
+}
+
