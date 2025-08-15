@@ -1,4 +1,4 @@
-```markdown
+
 ## 🧩 1. Rebuilding the Index (Force Google to Reindex Your Site)
 
 While you can't directly create a "reboot index" for Google, you **can trigger reindexing** by:
@@ -16,7 +16,7 @@ User-agent: *
 Disallow:
 
 Sitemap: https://yourdomain.com/sitemap.xml
-```
+
 
 ### c. **Triggering Re-crawling**
 
